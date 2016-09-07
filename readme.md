@@ -1,4 +1,4 @@
-# EJERCICIO JSCODERS
+# EJERCICIO SEGUNDOS
 
 Desarrollar un script que lea la cantidad de segundos y el número inicial desde el HTML, luego, mostrar en el HTML un contador que incremente la cantidad de segundos desde el número inicial ingresado.
 Caso de Prueba:
@@ -21,5 +21,5 @@ Lo que se espera del siguiente código es que el usuario pueda ingresar los núm
 6. Fin
 
 
-![FLUJOGRAMA](http://3.1m.yt/tt-EO1C.jpg"Flujograma")
+![FLUJOGRAMA](http://3.1m.yt/tt-EO1C.jpg "Flujograma")
 
