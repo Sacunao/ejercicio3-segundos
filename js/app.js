@@ -6,10 +6,11 @@ window.addEventListener("load", function() {
         intervalo (numeroInicial, segundos);
     });
 
-        function intervalo (numeroInicial, segundos){
-        	setInterval(function(){
-        	document.getElementById("resultado").innerHTML = numeroInicial++; }, segundos*1000);
-        	document.getElementById("segundos").value = "";
-			document.getElementById("numeroInicial").value = "";
-        }
+    function intervalo (numeroInicial, segundos){
+        setInterval(function(){
+             document.getElementById("resultado").innerHTML = numeroInicial++; 
+        }, segundos*1000);
+        document.getElementById("segundos").value = "";
+        document.getElementById("numeroInicial").value = "";
+    }
 });
