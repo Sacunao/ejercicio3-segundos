@@ -20,6 +20,10 @@ Lo que se espera del siguiente código es que el usuario pueda ingresar los núm
 5. Número inicial y consecutivos según intervalo.
 6. Fin
 
+Vista ingresando número de intervalo
 
-![FLUJOGRAMA](http://3.1m.yt/tt-EO1C.jpg "Flujograma")
+![Imagen](http://1.1m.yt/IdegPda.png "imagen")
 
+Vista donde se muestra la secuencia
+
+![Imagen](http://1.1m.yt/2AWAq0m.png "imagen")
